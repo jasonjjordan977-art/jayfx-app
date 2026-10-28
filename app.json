@@ -5,27 +5,10 @@
     "version": "1.0.0",
     "owner": "jayfx55s-team",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#000000"
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
-    },
     "android": {
-      "package": "com.jayfx55s.ags",
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#000000"
-      }
+      "package": "com.jayfx55s.ags"
     },
-  "platforms": [
+    "platforms": [
       "ios",
       "android",
       "web"
